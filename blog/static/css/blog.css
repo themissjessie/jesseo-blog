@@ -1,0 +1,50 @@
+.page-header {
+    background-color: #A9A9A9;
+    margin-top: 0;
+    padding: 20px 20px 20px 40px;
+}
+
+.page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
+    color: 008B8B;
+    font-size: 38pt;
+    font-weight: 
+    text-decoration: none;
+}
+
+.content {
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+h1, h2, h3, h4 {
+    font-family: 'Raleway', cursive;
+}
+
+
+.date {
+    color: #808080;
+}
+
+.save {
+    float: right;
+}
+
+.post-form textarea, .post-form input {
+    width: 100%;
+}
+
+.top-menu, .top-menu:hover, .top-menu:visited {
+    color: #008B8B;
+    float: right;
+    font-size: 24pt;
+    margin-right: 20px;
+}
+
+.post {
+    color: #696969;
+    margin-bottom: 70px;
+}
+
+.post h2 a, .post h2 a:visited {
+    color: #008B8B;
+}
